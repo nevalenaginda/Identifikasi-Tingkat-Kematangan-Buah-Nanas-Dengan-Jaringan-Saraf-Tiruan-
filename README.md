@@ -1,0 +1,1 @@
+# Identifikasi-Tingkat-Kematangan-Buah-Nanas-Dengan-Jaringan-Saraf-Tiruan-
